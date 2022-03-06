@@ -35,7 +35,8 @@ disp(flipdim(A(1,:),2))
 disp(A(1,3:-1:1))
 // 3)
 disp(A(1,1:2:$))
-// 4)  //nie wiem 
+// 4) 
+disp(diag(A))
 
 
 // zadanie 9
